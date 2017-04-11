@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 /* Libraries for Azure IoT hub  */
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
